@@ -1,2 +1,4 @@
 # info2180-lab2
-Lab 02 for Nathaniel Christie
+# INFO2180 Lab 2
+
+This is Lab 2 for Nathaniel Christie
